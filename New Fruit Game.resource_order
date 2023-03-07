@@ -17,6 +17,7 @@
     {"name":"Timelines","order":6,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"s_MeWhenTheBall","order":4,"path":"sprites/s_MeWhenTheBall/s_MeWhenTheBall.yy",},
     {"name":"Wall","order":1,"path":"objects/Wall/Wall.yy",},
     {"name":"s_Enemy","order":2,"path":"sprites/s_Enemy/s_Enemy.yy",},
     {"name":"s_OrangeJiggaboo","order":3,"path":"sprites/s_OrangeJiggaboo/s_OrangeJiggaboo.yy",},

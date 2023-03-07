@@ -37,6 +37,7 @@
   "resources": [
     {"id":{"name":"s_Player","path":"sprites/s_Player/s_Player.yy",},},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
+    {"id":{"name":"s_MeWhenTheBall","path":"sprites/s_MeWhenTheBall/s_MeWhenTheBall.yy",},},
     {"id":{"name":"Menu_Selection_Font","path":"fonts/Menu_Selection_Font/Menu_Selection_Font.yy",},},
     {"id":{"name":"Wall","path":"objects/Wall/Wall.yy",},},
     {"id":{"name":"Main_Menu_GUI","path":"objects/Main_Menu_GUI/Main_Menu_GUI.yy",},},
