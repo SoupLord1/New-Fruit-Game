@@ -19,6 +19,7 @@
   "ResourceOrderSettings": [
     {"name":"Wall","order":1,"path":"objects/Wall/Wall.yy",},
     {"name":"s_Enemy","order":2,"path":"sprites/s_Enemy/s_Enemy.yy",},
+    {"name":"s_OrangeJiggaboo","order":3,"path":"sprites/s_OrangeJiggaboo/s_OrangeJiggaboo.yy",},
     {"name":"s_Wall","order":1,"path":"sprites/s_Wall/s_Wall.yy",},
     {"name":"Testing_Room","order":1,"path":"rooms/Testing_Room/Testing_Room.yy",},
     {"name":"Enemy","order":2,"path":"objects/Enemy/Enemy.yy",},

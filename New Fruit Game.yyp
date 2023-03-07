@@ -41,6 +41,7 @@
     {"id":{"name":"Wall","path":"objects/Wall/Wall.yy",},},
     {"id":{"name":"Main_Menu_GUI","path":"objects/Main_Menu_GUI/Main_Menu_GUI.yy",},},
     {"id":{"name":"s_Enemy","path":"sprites/s_Enemy/s_Enemy.yy",},},
+    {"id":{"name":"s_OrangeJiggaboo","path":"sprites/s_OrangeJiggaboo/s_OrangeJiggaboo.yy",},},
     {"id":{"name":"Follow_Path","path":"paths/Follow_Path/Follow_Path.yy",},},
     {"id":{"name":"s_Wall","path":"sprites/s_Wall/s_Wall.yy",},},
     {"id":{"name":"Testing_Room","path":"rooms/Testing_Room/Testing_Room.yy",},},
