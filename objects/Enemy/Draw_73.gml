@@ -4,4 +4,4 @@ draw_set_alpha(1);
 draw_set_color(c_white);
 if pathPossible {draw_path(self.path, x, y, 0);};
 draw_set_alpha(0.2);
-mp_grid_draw(grid);
+mp_grid_draw(global.grid);

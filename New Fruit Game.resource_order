@@ -24,6 +24,7 @@
     {"name":"Something_in_The_Dark2","order":1,"path":"sounds/Something_in_The_Dark2/Something_in_The_Dark2.yy",},
     {"name":"s_OrangeJiggaboo","order":3,"path":"sprites/s_OrangeJiggaboo/s_OrangeJiggaboo.yy",},
     {"name":"s_Wall","order":1,"path":"sprites/s_Wall/s_Wall.yy",},
+    {"name":"obj_Game","order":4,"path":"objects/obj_Game/obj_Game.yy",},
     {"name":"Testing_Room","order":1,"path":"rooms/Testing_Room/Testing_Room.yy",},
     {"name":"Enemy","order":2,"path":"objects/Enemy/Enemy.yy",},
   ],
