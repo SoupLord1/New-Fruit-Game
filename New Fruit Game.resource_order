@@ -1,0 +1,26 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Animation Curves","order":10,"path":"folders/Animation Curves.yy",},
+    {"name":"Extensions","order":12,"path":"folders/Extensions.yy",},
+    {"name":"Fonts","order":5,"path":"folders/Fonts.yy",},
+    {"name":"GUI","order":13,"path":"folders/GUI.yy",},
+    {"name":"Main_Menu","order":1,"path":"folders/GUI/Main_Menu.yy",},
+    {"name":"Notes","order":11,"path":"folders/Notes.yy",},
+    {"name":"Objects","order":7,"path":"folders/Objects.yy",},
+    {"name":"Paths","order":14,"path":"folders/Paths.yy",},
+    {"name":"Rooms","order":8,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":3,"path":"folders/Scripts.yy",},
+    {"name":"Sequences","order":9,"path":"folders/Sequences.yy",},
+    {"name":"Shaders","order":4,"path":"folders/Shaders.yy",},
+    {"name":"Sounds","order":2,"path":"folders/Sounds.yy",},
+    {"name":"Tile Sets","order":1,"path":"folders/Tile Sets.yy",},
+    {"name":"Timelines","order":6,"path":"folders/Timelines.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"Wall","order":1,"path":"objects/Wall/Wall.yy",},
+    {"name":"s_Enemy","order":2,"path":"sprites/s_Enemy/s_Enemy.yy",},
+    {"name":"s_Wall","order":1,"path":"sprites/s_Wall/s_Wall.yy",},
+    {"name":"Testing_Room","order":1,"path":"rooms/Testing_Room/Testing_Room.yy",},
+    {"name":"Enemy","order":2,"path":"objects/Enemy/Enemy.yy",},
+  ],
+}
