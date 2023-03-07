@@ -10,7 +10,7 @@ if keyboard_check(ord("S")) {y += player_speed;};
 if keyboard_check(ord("R")) {room_restart();};
 
 //wall collision
-if x < + 32 { x = xprevious;};
+if x < + player_size[0]/2 { x = xprevious;};
 if x > window_get_width() - 32 { x = xprevious;};
-if y < + 32 { y = yprevious;};
+if y < + player_size[1]/2 { y = yprevious;};
 if y > window_get_height() - 32 { y = yprevious;};
