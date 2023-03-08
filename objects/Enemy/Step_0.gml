@@ -8,12 +8,20 @@
 
 self.path = path_add();
 
+
 disToPlayer = distance_to_object(Player);
-
-if (mp_grid_path(global.grid, path, x, y, Player.x, Player.y, irandom(1)) and disToPlayer > 10 and disToPlayer < 300) {
-	path_set_kind(path, 1);
-	pathPossible = 1;
-	path_start(path, 5, path_action_stop, 0);
+if timer = 0 {
+	if (mp_grid_path(global.grid, path, x, y, Player.x, Player.y, irandom(1)) and disToPlayer > 10 and disToPlayer < 300) {
+		path_set_kind(path, 1);
+		pathPossible = 1;
+		path_start(path, 5, path_action_stop, 0);
+	}
+	else { pathPossible = 0; path_end(); };
+	timer = 30;
 }
-else { pathPossible = 0; path_end(); };
-
+else {
+	timer--;
+	if (disToPlayer < 10 or disToPlayer > 300) {
+		timer = 0;
+	}
+}
