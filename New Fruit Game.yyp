@@ -36,6 +36,7 @@
   },
   "resources": [
     {"id":{"name":"s_Player","path":"sprites/s_Player/s_Player.yy",},},
+    {"id":{"name":"Bar_Drawing","path":"scripts/Bar_Drawing/Bar_Drawing.yy",},},
     {"id":{"name":"Game","path":"objects/Game/Game.yy",},},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
     {"id":{"name":"s_MeWhenTheBall","path":"sprites/s_MeWhenTheBall/s_MeWhenTheBall.yy",},},

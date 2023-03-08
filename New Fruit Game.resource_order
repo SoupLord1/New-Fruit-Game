@@ -17,6 +17,7 @@
     {"name":"Timelines","order":6,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Bar_Drawing","order":3,"path":"scripts/Bar_Drawing/Bar_Drawing.yy",},
     {"name":"Game","order":2,"path":"objects/Game/Game.yy",},
     {"name":"s_MeWhenTheBall","order":4,"path":"sprites/s_MeWhenTheBall/s_MeWhenTheBall.yy",},
     {"name":"Wall","order":1,"path":"objects/Wall/Wall.yy",},

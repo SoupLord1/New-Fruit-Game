@@ -8,19 +8,23 @@
 
 
 
-disToPlayer = distance_to_object(Player)
+disToPlayer = distance_to_object(Player);
+
 
 if timer = 0 {
-	if (mp_grid_path(global.grid, path, x, y, Player.x, Player.y, irandom(1)) and disToPlayer > 30 and path_get_length(self.path) < 400) {
+	if (mp_grid_path(global.grid, path, x, y, Player.x, Player.y, irandom(1)) and disToPlayer > allowedDisToPlayer and path_get_length(self.path) < 400) {
 		path_set_kind(path, 1);
 		path_start(path, enemy_speed, path_action_stop, 0);
 	}
-	else {path_end(); };
+	else {path_end();};
 	timer = 15;
 }
 else {
 	timer--;
-	if (disToPlayer < 30 or path_get_length(self.path) > 400) {
+	if (disToPlayer < allowedDisToPlayer or path_get_length(self.path) > 400) {
 		timer = 0;
+		if disToPlayer < allowedDisToPlayer {self.health -= 10;};
 	}
 }
+
+if self.health <= 0 {instance_destroy();};
