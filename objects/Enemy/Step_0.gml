@@ -6,22 +6,21 @@
 
 //mp_linear_path(Follow_Path, mouse_x - player_size[0]/2, mouse_y - player_size[1]/2, 1, false);
 
-self.path = path_add();
 
 
-disToPlayer = distance_to_object(Player);
+disToPlayer = distance_to_object(Player)
+
 if timer = 0 {
-	if (mp_grid_path(global.grid, path, x, y, Player.x, Player.y, irandom(1)) and disToPlayer > 10 and disToPlayer < 300) {
+	if (mp_grid_path(global.grid, path, x, y, Player.x, Player.y, irandom(1)) and disToPlayer > 30 and path_get_length(self.path) < 400) {
 		path_set_kind(path, 1);
-		pathPossible = 1;
-		path_start(path, 5, path_action_stop, 0);
+		path_start(path, enemy_speed, path_action_stop, 0);
 	}
-	else { pathPossible = 0; path_end(); };
-	timer = 30;
+	else {path_end(); };
+	timer = 15;
 }
 else {
 	timer--;
-	if (disToPlayer < 10 or disToPlayer > 300) {
+	if (disToPlayer < 30 or path_get_length(self.path) > 400) {
 		timer = 0;
 	}
 }

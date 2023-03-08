@@ -3,6 +3,8 @@
 draw_set_alpha(1);
 draw_set_color(c_white);
 //if pathPossible {
+path_set_kind(path, 1);
 draw_path(path, x, y, 0);//};
 //draw_set_alpha(0.2);
 //mp_grid_draw(global.grid);
+draw_text(x,y,string(enemy_speed));
