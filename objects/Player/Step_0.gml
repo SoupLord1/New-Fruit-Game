@@ -14,3 +14,5 @@ if x < + player_size[0]/2 { x = xprevious;};
 if x > window_get_width() - 32 { x = xprevious;};
 if y < + player_size[1]/2 { y = yprevious;};
 if y > window_get_height() - 32 { y = yprevious;};
+
+if health <= 0 {room_restart();};
