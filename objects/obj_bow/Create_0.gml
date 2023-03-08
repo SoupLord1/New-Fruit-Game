@@ -1,4 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-x = xprevious;
-y = yprevious;
+canFire = true;
+fireRate = 15;
+bowDis = 10;

@@ -23,7 +23,7 @@ else {
 	timer--;
 	if (disToPlayer < allowedDisToPlayer or path_get_length(self.path) > 400) {
 		timer = 0;
-		if disToPlayer < allowedDisToPlayer {self.health -= 10;};
+		if disToPlayer <= allowedDisToPlayer {health -= 1;};
 	}
 }
 
