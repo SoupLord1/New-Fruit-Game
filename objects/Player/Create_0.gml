@@ -4,3 +4,5 @@ player_speed = 5;
 player_size = [64, 64];
 health = 50;
 damage_delay = 0;
+currentWeapon = "sword";
+canChangeWeapon = true;

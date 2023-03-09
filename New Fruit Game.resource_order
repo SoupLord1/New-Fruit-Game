@@ -19,9 +19,7 @@
   "ResourceOrderSettings": [
     {"name":"Bar_Drawing","order":3,"path":"scripts/Bar_Drawing/Bar_Drawing.yy",},
     {"name":"s_arrow","order":6,"path":"sprites/s_arrow/s_arrow.yy",},
-    {"name":"Game","order":2,"path":"objects/Game/Game.yy",},
     {"name":"s_sword","order":7,"path":"sprites/s_sword/s_sword.yy",},
-    {"name":"s_Health_Bar","order":16,"path":"sprites/s_Health_Bar/s_Health_Bar.yy",},
     {"name":"s_MeWhenTheBall","order":4,"path":"sprites/s_MeWhenTheBall/s_MeWhenTheBall.yy",},
     {"name":"obj_bow","order":5,"path":"objects/obj_bow/obj_bow.yy",},
     {"name":"Wall","order":1,"path":"objects/Wall/Wall.yy",},
