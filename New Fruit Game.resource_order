@@ -16,6 +16,7 @@
     {"name":"Sounds","order":2,"path":"folders/Sounds.yy",},
     {"name":"Tile Sets","order":1,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":6,"path":"folders/Timelines.yy",},
+    {"name":"Player","order":5,"path":"folders/GUI/Player.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Level5","order":7,"path":"rooms/Level5/Level5.yy",},
