@@ -10,7 +10,8 @@ y = Player.y + lengthdir_y(bowDis, aim_dir);
 image_angle = aim_dir;
 
 
-if mouse_check_button(mb_left) and canFire{
+if mouse_check_button(mb_left) and canFire and global.arrows > 0{
+	global.arrows -= 1;
 	visible = 1;
 	instance_create_layer(x, y, "Players", obj_arrow);
 	canFire = false;
