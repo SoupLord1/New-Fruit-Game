@@ -18,6 +18,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Main_Menu","folderPath":"folders/GUI/Main_Menu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notes","folderPath":"folders/Notes.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"group1","folderPath":"folders/Objects/group1.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Paths","folderPath":"folders/Paths.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/Scripts.yy",},
@@ -27,7 +28,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"group1","folderPath":"folders/Objects/group1.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -38,7 +38,6 @@
   "resources": [
     {"id":{"name":"s_Player","path":"sprites/s_Player/s_Player.yy",},},
     {"id":{"name":"Bar_Drawing","path":"scripts/Bar_Drawing/Bar_Drawing.yy",},},
-    {"id":{"name":"o_WeaponSpawn","path":"objects/o_WeaponSpawn/o_WeaponSpawn.yy",},},
     {"id":{"name":"Title_Theme","path":"sounds/Title_Theme/Title_Theme.yy",},},
     {"id":{"name":"Title_Theme___Game_1","path":"sounds/Title_Theme___Game_1/Title_Theme___Game_1.yy",},},
     {"id":{"name":"s_arrow","path":"sprites/s_arrow/s_arrow.yy",},},
