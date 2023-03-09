@@ -18,12 +18,14 @@
   ],
   "ResourceOrderSettings": [
     {"name":"Bar_Drawing","order":3,"path":"scripts/Bar_Drawing/Bar_Drawing.yy",},
+    {"name":"Title_Theme","order":2,"path":"sounds/Title_Theme/Title_Theme.yy",},
     {"name":"s_arrow","order":6,"path":"sprites/s_arrow/s_arrow.yy",},
     {"name":"s_sword","order":7,"path":"sprites/s_sword/s_sword.yy",},
     {"name":"s_MeWhenTheBall","order":4,"path":"sprites/s_MeWhenTheBall/s_MeWhenTheBall.yy",},
     {"name":"obj_bow","order":5,"path":"objects/obj_bow/obj_bow.yy",},
     {"name":"Wall","order":1,"path":"objects/Wall/Wall.yy",},
     {"name":"obj_arrow","order":6,"path":"objects/obj_arrow/obj_arrow.yy",},
+    {"name":"o_Title_Theme","order":9,"path":"objects/o_Title_Theme/o_Title_Theme.yy",},
     {"name":"o_TestMusic","order":3,"path":"objects/o_TestMusic/o_TestMusic.yy",},
     {"name":"s_Enemy","order":2,"path":"sprites/s_Enemy/s_Enemy.yy",},
     {"name":"Something_in_The_Dark2","order":1,"path":"sounds/Something_in_The_Dark2/Something_in_The_Dark2.yy",},
@@ -33,7 +35,7 @@
     {"name":"s_bow","order":5,"path":"sprites/s_bow/s_bow.yy",},
     {"name":"obj_Game","order":4,"path":"objects/obj_Game/obj_Game.yy",},
     {"name":"Testing_Room","order":1,"path":"rooms/Testing_Room/Testing_Room.yy",},
-    {"name":"o_hud","order":15,"path":"objects/o_hud/o_hud.yy",},
+    {"name":"o_hud","order":8,"path":"objects/o_hud/o_hud.yy",},
     {"name":"Enemy","order":2,"path":"objects/Enemy/Enemy.yy",},
   ],
 }

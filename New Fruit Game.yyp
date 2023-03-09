@@ -37,6 +37,7 @@
   "resources": [
     {"id":{"name":"s_Player","path":"sprites/s_Player/s_Player.yy",},},
     {"id":{"name":"Bar_Drawing","path":"scripts/Bar_Drawing/Bar_Drawing.yy",},},
+    {"id":{"name":"Title_Theme","path":"sounds/Title_Theme/Title_Theme.yy",},},
     {"id":{"name":"s_arrow","path":"sprites/s_arrow/s_arrow.yy",},},
     {"id":{"name":"s_sword","path":"sprites/s_sword/s_sword.yy",},},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
@@ -46,6 +47,7 @@
     {"id":{"name":"Wall","path":"objects/Wall/Wall.yy",},},
     {"id":{"name":"obj_arrow","path":"objects/obj_arrow/obj_arrow.yy",},},
     {"id":{"name":"Main_Menu_GUI","path":"objects/Main_Menu_GUI/Main_Menu_GUI.yy",},},
+    {"id":{"name":"o_Title_Theme","path":"objects/o_Title_Theme/o_Title_Theme.yy",},},
     {"id":{"name":"o_TestMusic","path":"objects/o_TestMusic/o_TestMusic.yy",},},
     {"id":{"name":"s_Enemy","path":"sprites/s_Enemy/s_Enemy.yy",},},
     {"id":{"name":"Something_in_The_Dark2","path":"sounds/Something_in_The_Dark2/Something_in_The_Dark2.yy",},},

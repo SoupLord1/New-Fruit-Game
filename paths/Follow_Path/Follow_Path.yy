@@ -8,6 +8,11 @@
     "name": "Paths",
     "path": "folders/Paths.yy",
   },
-  "points": [],
+  "points": [
+    {"speed":100.0,"x":128.0,"y":96.0,},
+    {"speed":100.0,"x":128.0,"y":-128.0,},
+    {"speed":100.0,"x":416.0,"y":-128.0,},
+    {"speed":100.0,"x":576.0,"y":-128.0,},
+  ],
   "precision": 4,
 }
