@@ -4,3 +4,4 @@ self.aim_dir = point_direction(x, y, mouse_x, mouse_y);
 self.speed = 5;
 self.image_angle = self.aim_dir;
 self.direction = self.aim_dir;
+depth = obj_bow.depth - 1;
