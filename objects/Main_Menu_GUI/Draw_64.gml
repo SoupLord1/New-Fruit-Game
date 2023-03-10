@@ -11,7 +11,7 @@ draw_set_alpha(0.8);
 draw_set_color(c_white);
 if mouse_x > selections[0] and mouse_x < selections[2] and mouse_y > selections[1] and mouse_y < selections[3]{
 	draw_set_color(c_gray);
-	if mouse_check_button_pressed(mb_left) { room_goto(Testing_Room);};
+	if mouse_check_button_pressed(mb_left) { room_goto(Level1);};
 }
 draw_rectangle(selections[0], selections[1], selections[2], selections[3], false);
 draw_set_color(c_white);
@@ -24,7 +24,7 @@ draw_rectangle(selections[0], selections[1] + buttonsepdis * 2, selections[2], s
 //text
 draw_set_font(Menu_Selection_Font);
 draw_set_color(c_black);
-draw_text(selections[0] + 70, selections[1] + 10, "Play Game");
-draw_text(selections[0] + 80, selections[1] + 140, "Tutorial");
-draw_text(selections[0] + 100, selections[1] + 260,"Settings");
+draw_text(selections[0] + 95, selections[1] + 25, "Play Game");
+draw_text(selections[0] + 110, selections[1] + 150, "Tutorial");
+draw_text(selections[0] + 110, selections[1] + 275,"Settings");
 

@@ -29,6 +29,6 @@ if x > room_width - 32 { x = xprevious;};
 if y < + player_size[1]/2 { y = yprevious;};
 if y > room_height - 32 { y = yprevious;};
 
-if health <= 10 {instance_destroy(); room_restart();};
+//if health <= 10 {instance_destroy(); room_restart();};
 
 if damage_delay > 0 {damage_delay--;};
