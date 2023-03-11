@@ -7,7 +7,7 @@ if keyboard_check(ord("A")) {x -= player_speed;};
 if keyboard_check(ord("D")) {x += player_speed;};
 if keyboard_check(ord("W")) {y -= player_speed;};
 if keyboard_check(ord("S")) {y += player_speed;};
-if keyboard_check(ord("R")) {room_restart();};
+if keyboard_check_released(ord("R")) {room_restart();};
 if keyboard_check(vk_space) and canChangeWeapon {
 	if currentWeapon == "sword" {
 		instance_destroy(obj_sword); 
