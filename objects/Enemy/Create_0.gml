@@ -6,3 +6,4 @@ enemy_speed = irandom_range(4, 5);
 allowedDisToPlayer = 30;
 self.health = 100;
 canTakeSwordDamage = true;
+enemyAlerted = false;
