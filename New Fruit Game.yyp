@@ -12,6 +12,7 @@
   "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Backgrounds","folderPath":"folders/Backgrounds.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GUI","folderPath":"folders/GUI.yy",},
@@ -79,6 +80,8 @@
     {"id":{"name":"s_bow","path":"sprites/s_bow/s_bow.yy",},},
     {"id":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
     {"id":{"name":"obj_Game","path":"objects/obj_Game/obj_Game.yy",},},
+    {"id":{"name":"o_DungeonBackground","path":"objects/o_DungeonBackground/o_DungeonBackground.yy",},},
+    {"id":{"name":"s_DungeonBackground","path":"sprites/s_DungeonBackground/s_DungeonBackground.yy",},},
     {"id":{"name":"Testing_Room","path":"rooms/Testing_Room/Testing_Room.yy",},},
     {"id":{"name":"InbetweenLevel_Menu","path":"rooms/InbetweenLevel_Menu/InbetweenLevel_Menu.yy",},},
     {"id":{"name":"o_hud","path":"objects/o_hud/o_hud.yy",},},

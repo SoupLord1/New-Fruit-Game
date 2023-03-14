@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings": [
     {"name":"Animation Curves","order":11,"path":"folders/Animation Curves.yy",},
+    {"name":"Backgrounds","order":16,"path":"folders/Backgrounds.yy",},
     {"name":"Extensions","order":13,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":6,"path":"folders/Fonts.yy",},
     {"name":"GUI","order":14,"path":"folders/GUI.yy",},
@@ -50,6 +51,7 @@
     {"name":"s_bow","order":5,"path":"sprites/s_bow/s_bow.yy",},
     {"name":"Level1","order":2,"path":"rooms/Level1/Level1.yy",},
     {"name":"obj_Game","order":4,"path":"objects/obj_Game/obj_Game.yy",},
+    {"name":"o_DungeonBackground","order":17,"path":"objects/o_DungeonBackground/o_DungeonBackground.yy",},
     {"name":"Testing_Room","order":1,"path":"rooms/Testing_Room/Testing_Room.yy",},
     {"name":"InbetweenLevel_Menu","order":14,"path":"rooms/InbetweenLevel_Menu/InbetweenLevel_Menu.yy",},
     {"name":"o_hud","order":8,"path":"objects/o_hud/o_hud.yy",},
