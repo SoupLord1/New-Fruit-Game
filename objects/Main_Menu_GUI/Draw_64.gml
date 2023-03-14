@@ -24,7 +24,7 @@ draw_rectangle(selections[0], selections[1] + buttonsepdis * 2, selections[2], s
 //text
 draw_set_font(Menu_Selection_Font);
 draw_set_color(c_black);
-draw_text(selections[0] + 95, selections[1] + 25, "Play Game");
-draw_text(selections[0] + 110, selections[1] + 150, "Tutorial");
+draw_text(selections[0] + 110, selections[1] + 25, "Play Game");
+draw_text(selections[0] + 125, selections[1] + 150, "Credits");
 draw_text(selections[0] + 110, selections[1] + 275,"Settings");
 

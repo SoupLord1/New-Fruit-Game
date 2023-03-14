@@ -69,7 +69,6 @@
     {"id":{"name":"Player_GUI","path":"objects/Player_GUI/Player_GUI.yy",},},
     {"id":{"name":"Something_in_The_Dark2","path":"sounds/Something_in_The_Dark2/Something_in_The_Dark2.yy",},},
     {"id":{"name":"Something_in_The_Dark","path":"sounds/Something_in_The_Dark/Something_in_The_Dark.yy",},},
-    {"id":{"name":"Weapon_Selection_Screen","path":"objects/Weapon_Selection_Screen/Weapon_Selection_Screen.yy",},},
     {"id":{"name":"s_OrangeJiggaboo","path":"sprites/s_OrangeJiggaboo/s_OrangeJiggaboo.yy",},},
     {"id":{"name":"Level7","path":"rooms/Level7/Level7.yy",},},
     {"id":{"name":"Level9","path":"rooms/Level9/Level9.yy",},},
