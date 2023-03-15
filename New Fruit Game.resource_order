@@ -1,14 +1,13 @@
 {
   "FolderOrderSettings": [
-    {"name":"Animation Curves","order":11,"path":"folders/Animation Curves.yy",},
+    {"name":"Animation Curves","order":5,"path":"folders/GUI/Animation Curves.yy",},
     {"name":"Backgrounds","order":16,"path":"folders/Backgrounds.yy",},
     {"name":"Extensions","order":13,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":6,"path":"folders/Fonts.yy",},
     {"name":"GUI","order":14,"path":"folders/GUI.yy",},
-    {"name":"InbetweenLevel","order":7,"path":"folders/GUI/InbetweenLevel.yy",},
-    {"name":"Main_Menu","order":1,"path":"folders/GUI/Main_Menu.yy",},
-    {"name":"Player","order":5,"path":"folders/GUI/Player.yy",},
-    {"name":"Shop","order":6,"path":"folders/GUI/Shop.yy",},
+    {"name":"InbetweenLevel","order":4,"path":"folders/GUI/InbetweenLevel.yy",},
+    {"name":"Player","order":2,"path":"folders/GUI/Player.yy",},
+    {"name":"Shop","order":3,"path":"folders/GUI/Shop.yy",},
     {"name":"Notes","order":12,"path":"folders/Notes.yy",},
     {"name":"Objects","order":8,"path":"folders/Objects.yy",},
     {"name":"Paths","order":15,"path":"folders/Paths.yy",},
@@ -22,7 +21,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"Level5","order":7,"path":"rooms/Level5/Level5.yy",},
-    {"name":"Bar_Drawing","order":3,"path":"scripts/Bar_Drawing/Bar_Drawing.yy",},
+    {"name":"Bar_Drawing","order":1,"path":"scripts/Bar_Drawing/Bar_Drawing.yy",},
     {"name":"Title_Theme","order":2,"path":"sounds/Title_Theme/Title_Theme.yy",},
     {"name":"Shop","order":13,"path":"rooms/Shop/Shop.yy",},
     {"name":"Title_Theme___Game_1","order":3,"path":"sounds/Title_Theme___Game_1/Title_Theme___Game_1.yy",},
