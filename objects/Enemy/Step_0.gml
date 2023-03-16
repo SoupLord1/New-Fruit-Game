@@ -12,7 +12,7 @@ disToPlayer = distance_to_object(Player);
 
 
 if timer = 0 {
-	if (mp_grid_path(global.grid, path, x, y, Player.x, Player.y, irandom(1)) and disToPlayer > allowedDisToPlayer and path_get_length(self.path) < 400 or enemyAlerted and disToPlayer > allowedDisToPlayer) {
+	if (mp_grid_path(global.grid, path, x, y, Player.x, Player.y, irandom(1)) and disToPlayer > allowedDisToPlayer and path_get_length(path) < 400 or enemyAlerted and disToPlayer > allowedDisToPlayer) {
 		enemyAlerted = true;
 		path_set_kind(path, 1);
 		path_start(path, enemy_speed, path_action_stop, 0);
@@ -22,9 +22,8 @@ if timer = 0 {
 }
 else {
 	timer--;
-	if (disToPlayer < allowedDisToPlayer or path_get_length(self.path) > 400) {
+	if (disToPlayer < allowedDisToPlayer or path_get_length(path) > 400) {
 		timer = 0;
-		if disToPlayer <= allowedDisToPlayer {health -= 1;};
 	}
 }
 

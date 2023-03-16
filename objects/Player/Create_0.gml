@@ -10,3 +10,4 @@ player_size = [64, 64];
 health = 50;
 damage_delay = 0;
 canChangeWeapon = true;
+canTakeSwordDamage = true;

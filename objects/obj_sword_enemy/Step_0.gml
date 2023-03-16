@@ -3,7 +3,7 @@
 x = nearestEnemy.x;
 y = nearestEnemy.y;
 
-if distance_to_object(Player) < 150 and !isAttacking{
+if distance_to_object(Player) < 150 and !isAttacking and path_get_length(nearestEnemy.path) < 400 and  path_get_length(nearestEnemy.path) > 0  {
 	aim_dir = point_direction(x, y, Player.x, Player.y);
 	starting_dir = aim_dir - 90;
 	visible = 1;
