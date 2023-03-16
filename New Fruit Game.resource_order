@@ -1,10 +1,10 @@
 {
   "FolderOrderSettings": [
-    {"name":"Animation Curves","order":5,"path":"folders/GUI/Animation Curves.yy",},
     {"name":"Backgrounds","order":16,"path":"folders/Backgrounds.yy",},
     {"name":"Extensions","order":13,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":6,"path":"folders/Fonts.yy",},
     {"name":"GUI","order":14,"path":"folders/GUI.yy",},
+    {"name":"Animation Curves","order":5,"path":"folders/GUI/Animation Curves.yy",},
     {"name":"InbetweenLevel","order":4,"path":"folders/GUI/InbetweenLevel.yy",},
     {"name":"Player","order":2,"path":"folders/GUI/Player.yy",},
     {"name":"Shop","order":3,"path":"folders/GUI/Shop.yy",},
@@ -54,6 +54,7 @@
     {"name":"InbetweenLevel_Menu","order":14,"path":"rooms/InbetweenLevel_Menu/InbetweenLevel_Menu.yy",},
     {"name":"o_hud","order":8,"path":"objects/o_hud/o_hud.yy",},
     {"name":"Enemy","order":2,"path":"objects/Enemy/Enemy.yy",},
+    {"name":"obj_sword_enemy","order":13,"path":"objects/obj_sword_enemy/obj_sword_enemy.yy",},
     {"name":"Level10","order":12,"path":"rooms/Level10/Level10.yy",},
     {"name":"Level8","order":10,"path":"rooms/Level8/Level8.yy",},
     {"name":"Level4","order":6,"path":"rooms/Level4/Level4.yy",},

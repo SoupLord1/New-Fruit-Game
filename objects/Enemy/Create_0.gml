@@ -7,3 +7,6 @@ allowedDisToPlayer = 30;
 self.health = 100;
 canTakeSwordDamage = true;
 enemyAlerted = false;
+instance_create_layer(x, y, "Players", obj_sword_enemy);
+weapon = instance_nearest(x, y, obj_sword_enemy);
+

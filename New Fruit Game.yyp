@@ -11,11 +11,11 @@
   },
   "defaultScriptType": 1,
   "Folders": [
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/GUI/Animation Curves.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Backgrounds","folderPath":"folders/Backgrounds.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GUI","folderPath":"folders/GUI.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/GUI/Animation Curves.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"InbetweenLevel","folderPath":"folders/GUI/InbetweenLevel.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Main_Menu","folderPath":"folders/GUI/Main_Menu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Player","folderPath":"folders/GUI/Player.yy",},
@@ -38,7 +38,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.2.0.71",
+    "IDEVersion": "2023.2.1.75",
   },
   "resources": [
     {"id":{"name":"InbetweenLevel_GUI","path":"objects/InbetweenLevel_GUI/InbetweenLevel_GUI.yy",},},
@@ -85,6 +85,7 @@
     {"id":{"name":"InbetweenLevel_Menu","path":"rooms/InbetweenLevel_Menu/InbetweenLevel_Menu.yy",},},
     {"id":{"name":"o_hud","path":"objects/o_hud/o_hud.yy",},},
     {"id":{"name":"Enemy","path":"objects/Enemy/Enemy.yy",},},
+    {"id":{"name":"obj_sword_enemy","path":"objects/obj_sword_enemy/obj_sword_enemy.yy",},},
     {"id":{"name":"Level10","path":"rooms/Level10/Level10.yy",},},
     {"id":{"name":"Level8","path":"rooms/Level8/Level8.yy",},},
     {"id":{"name":"Level4","path":"rooms/Level4/Level4.yy",},},

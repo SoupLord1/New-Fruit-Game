@@ -9,15 +9,15 @@ if keyboard_check(ord("W")) {y -= player_speed;};
 if keyboard_check(ord("S")) {y += player_speed;};
 if keyboard_check_released(ord("R")) {room_restart();};
 if keyboard_check(vk_space) and canChangeWeapon {
-	if currentWeapon == "sword" {
+	if global.currentWeapon == "sword" {
 		instance_destroy(obj_sword); 
 		instance_create_depth(x, y, Player.depth - 1, obj_bow);
-		currentWeapon = "bow"; 
+		global.currentWeapon = "bow"; 
 	}
-	else if currentWeapon == "bow" {
+	else if global.currentWeapon == "bow" {
 		instance_destroy(obj_bow); 
 		instance_create_depth(x, y, Player.depth - 1, obj_sword);
-		currentWeapon = "sword"; 
+		global.currentWeapon = "sword"; 
 	}
 	canChangeWeapon = false;
 	alarm[0] = 30;
