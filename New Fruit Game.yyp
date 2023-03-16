@@ -61,6 +61,7 @@
     {"id":{"name":"o_Camera","path":"objects/o_Camera/o_Camera.yy",},},
     {"id":{"name":"Wall","path":"objects/Wall/Wall.yy",},},
     {"id":{"name":"obj_arrow","path":"objects/obj_arrow/obj_arrow.yy",},},
+    {"id":{"name":"Sprite12","path":"sprites/Sprite12/Sprite12.yy",},},
     {"id":{"name":"Level2","path":"rooms/Level2/Level2.yy",},},
     {"id":{"name":"Main_Menu_GUI","path":"objects/Main_Menu_GUI/Main_Menu_GUI.yy",},},
     {"id":{"name":"o_Title_Theme","path":"objects/o_Title_Theme/o_Title_Theme.yy",},},

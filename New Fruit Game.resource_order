@@ -36,6 +36,7 @@
     {"name":"o_Camera","order":12,"path":"objects/o_Camera/o_Camera.yy",},
     {"name":"Wall","order":1,"path":"objects/Wall/Wall.yy",},
     {"name":"obj_arrow","order":6,"path":"objects/obj_arrow/obj_arrow.yy",},
+    {"name":"Sprite12","order":19,"path":"sprites/Sprite12/Sprite12.yy",},
     {"name":"Level2","order":4,"path":"rooms/Level2/Level2.yy",},
     {"name":"o_Title_Theme","order":9,"path":"objects/o_Title_Theme/o_Title_Theme.yy",},
     {"name":"Level6","order":8,"path":"rooms/Level6/Level6.yy",},
