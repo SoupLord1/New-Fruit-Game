@@ -19,5 +19,5 @@
   "sampleRate": 44100,
   "soundFile": "Title_Theme___Game_1.ogg",
   "type": 0,
-  "volume": 1.0,
+  "volume": 0.0,
 }
