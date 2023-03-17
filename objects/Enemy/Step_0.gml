@@ -28,3 +28,8 @@ else {
 }
 
 if self.health <= 0 {instance_destroy(weapon); instance_destroy();};
+
+if x > room_width {x--;};
+if x < 0 {x++;};
+if y > room_height {y--;};
+if y < 0 {y++;};

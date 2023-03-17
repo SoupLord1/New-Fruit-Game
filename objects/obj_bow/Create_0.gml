@@ -4,3 +4,4 @@ canFire = true;
 fireRate = 15;
 bowDis = 10;
 visible = 0;
+depth = Player.depth - 1;

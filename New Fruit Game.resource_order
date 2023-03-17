@@ -21,7 +21,6 @@
   ],
   "ResourceOrderSettings": [
     {"name":"Level5","order":7,"path":"rooms/Level5/Level5.yy",},
-    {"name":"Bar_Drawing","order":1,"path":"scripts/Bar_Drawing/Bar_Drawing.yy",},
     {"name":"Title_Theme","order":2,"path":"sounds/Title_Theme/Title_Theme.yy",},
     {"name":"Shop","order":13,"path":"rooms/Shop/Shop.yy",},
     {"name":"Title_Theme___Game_1","order":3,"path":"sounds/Title_Theme___Game_1/Title_Theme___Game_1.yy",},
@@ -54,6 +53,7 @@
     {"name":"Level1","order":2,"path":"rooms/Level1/Level1.yy",},
     {"name":"obj_Game","order":4,"path":"objects/obj_Game/obj_Game.yy",},
     {"name":"o_DungeonBackground","order":17,"path":"objects/o_DungeonBackground/o_DungeonBackground.yy",},
+    {"name":"TileSet1","order":15,"path":"tilesets/TileSet1/TileSet1.yy",},
     {"name":"Testing_Room","order":1,"path":"rooms/Testing_Room/Testing_Room.yy",},
     {"name":"InbetweenLevel_Menu","order":14,"path":"rooms/InbetweenLevel_Menu/InbetweenLevel_Menu.yy",},
     {"name":"o_hud","order":8,"path":"objects/o_hud/o_hud.yy",},

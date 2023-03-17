@@ -1,13 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-draw_set_alpha(1);
-draw_set_color(c_white);
-//if pathPossible {
-//path_set_kind(path, 1);
-//draw_path(path, x, y, 0);//};
-//draw_set_alpha(0.2);
-//mp_grid_draw(global.grid);
-draw_text(x,y,string(enemy_speed));
 
-draw_bar(x - 32, y - 32, 64, 16, c_green, c_white, c_grey, 2, 100, self.health, false);
+enemyHealth = (self.health / maxHealth) * 100;
+draw_healthbar(x - 37, y - 35, x + 37, y - 45, enemyHealth, c_black, c_red, c_green, 0, true, true);
 

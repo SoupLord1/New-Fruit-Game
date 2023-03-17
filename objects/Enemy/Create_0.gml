@@ -4,8 +4,8 @@ timer = irandom_range(0, 100);
 path = path_add();
 mp_grid_path(global.grid, path, x, y, Player.x, Player.y, irandom(1))
 enemy_speed = irandom_range(4, 5);
-
-self.health = 100;
+maxHealth = 100;
+self.health = maxHealth;
 canTakeSwordDamage = true;
 enemyAlerted = false;
 randomWeapon = irandom_range(1, 4);

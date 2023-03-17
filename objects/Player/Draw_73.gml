@@ -1,4 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-draw_bar(x + 32, y - 32, 20, 64, c_green, c_white, c_maroon, 5, 50, health, true);
+playerHealth = (health / Player.maxHealth) * 100;
+draw_healthbar(x - 37, y - 35, x + 37, y - 45, playerHealth, c_black, c_red, c_green, 0, true, true);
 

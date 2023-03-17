@@ -5,3 +5,4 @@ fireRate = 30;
 bowDis = 10;
 visible = 0;
 nearestEnemy = instance_nearest(x, y, Enemy);
+depth = nearestEnemy.depth - 1;
