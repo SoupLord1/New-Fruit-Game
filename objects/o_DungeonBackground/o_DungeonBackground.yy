@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "New Fruit Game",
-    "path": "New Fruit Game.yyp",
+    "name": "Backgrounds",
+    "path": "folders/Backgrounds.yy",
   },
   "parentObjectId": null,
   "persistent": false,
